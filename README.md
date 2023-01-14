@@ -5,8 +5,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/kreyuk/Marsha-Bot
-cd Marsha-Bot
+git clone https://github.com/AllBOTZ/LEXER-JB
+cd LEXER-JB
 npm install
 ```
 
